@@ -5,3 +5,9 @@
 .link-padding {
   padding: 1rem;
 }
+
+.center-text {
+  width: 25%;
+  text-align: center;
+  margin: auto;
+}
